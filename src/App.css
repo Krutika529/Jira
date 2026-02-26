@@ -1,0 +1,17 @@
+.app {
+  display: grid;
+  grid: template rows 10vmin;
+  background-color: #F9F9F9;
+}
+
+.app_main {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px 20%;
+}
+
+.task_column {
+  width: 30%;
+  background-color: #B0E298;
+  margin: 20px;
+}
