@@ -1,17 +1,16 @@
 .app {
-  display: grid;
-  grid: template rows 10vmin;
-  background-color: #F9F9F9;
+  background-color: #f9f9f9;
+  width: 100%;
 }
 
 .app_main {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   padding: 20px 20%;
 }
 
 .task_column {
   width: 30%;
-  background-color: #B0E298;
+  background-color: #b0e298;
   margin: 20px;
 }
