@@ -5,12 +5,5 @@
 
 .app_main {
   display: flex;
-  justify-content: center;
-  padding: 20px 20%;
-}
-
-.task_column {
-  width: 30%;
-  background-color: #b0e298;
-  margin: 20px;
+  justify-content: space-around;
 }
